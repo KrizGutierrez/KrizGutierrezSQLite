@@ -1,0 +1,2 @@
+# KrizGutierrezSQLite
+Proyecto SQLite 
